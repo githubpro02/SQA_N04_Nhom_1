@@ -3,7 +3,7 @@
 Đề tài: Quản lý nhân sự
 
 Thành viên:
-  Nguyễn Đức Mạnh
-  Lê Hoàng Ngọc Tú
-  Vũ Văn Minh
-  Nguyễn Đức Nguyện
+  - Nguyễn Đức Mạnh
+  - Lê Hoàng Ngọc Tú
+  - Vũ Văn Minh
+  - Nguyễn Đức Nguyện
