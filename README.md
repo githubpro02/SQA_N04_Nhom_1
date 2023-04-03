@@ -1,6 +1,6 @@
 # SQA_N04_Nhom_1
 
-Đề tài: Quản lý nhân sự
+Đề tài: Website bán hàng
 
 Thành viên:
   - Nguyễn Đức Mạnh
