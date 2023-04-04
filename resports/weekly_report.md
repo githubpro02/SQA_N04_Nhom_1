@@ -1,7 +1,7 @@
 # Báo cáo nhóm 1
 
 ## Tuần trước làm
-Thiết kế các testcase
+Lập kế hoạch kiểm thử
 
 
 ## Các vấn đề nhóm gặp phải
@@ -9,7 +9,7 @@ Hiện tại chưa gặp phải khó khăn
 
 
 ## Dự định tuần tới làm gì
-Lập kế hoạch kiểm thử
+Thiết kế và viết các testcase
 
 ---
 
