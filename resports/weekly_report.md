@@ -28,13 +28,13 @@
 
 
 ### Tuần trước làm gì
-Em làm tác vụ A
+Thiết kế giao diện trang Web hàng
 
 ### Khó khăn gặp phải
-Em chưa hiểu và triển khai được phân B
+Hiện tại em chưa gặp khó khăn
 
 ### Dự định tuần tới
-Em sẽ hoàn thành một phần công viêc C.
+Dự định tuần tới em sẽ xong phần Front-end, Back-end và đi vào quy trình kiểm thử 1 số chức năng
 
 ## Nguyễn Đức Nguyện
 
