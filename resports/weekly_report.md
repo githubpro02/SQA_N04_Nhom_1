@@ -14,21 +14,15 @@
 # Báo cáo của thành viên
 
 ## Nguyễn Đức Mạnh (C)
-
 ### Tuần trước làm
-
-
 ### Khó khăn gặp phải
-
-
 ### Dự định tuần tới
 
 
 ## Lê Hoàng Ngọc Tú
 
-
 ### Tuần trước làm gì
-Thiếkếkế giao diện trang Web
+Thiết kế giao diện trang Web hànghàng
 
 ### Khó khăn gặp phải
 Hiện tại em chưa gặp khó khăn
