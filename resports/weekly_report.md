@@ -28,7 +28,7 @@
 
 
 ### Tuần trước làm gì
-Viết giao diện trang Web
+Thiếkếkế giao diện trang Web
 
 ### Khó khăn gặp phải
 Hiện tại em chưa gặp khó khăn
