@@ -22,13 +22,13 @@
 ## Lê Hoàng Ngọc Tú
 
 ### Tuần trước làm gì
-Thiết kế giao diện trang Web hànghàng
+Thiết kế giao diện trang Web hàng
 
 ### Khó khăn gặp phải
 Hiện tại em chưa gặp khó khăn
 
 ### Dự định tuần tới
-Dự định tuần tới em sẽ xong phần Front-end, Back-end và đi vào quy trình kiểm thử 1 số cnăngnăng
+Dự định tuần tới em sẽ xong phần Front-end, Back-end và đi vào quy trình kiểm thử 1 số chức năng 
 
 ## Nguyễn Đức Nguyện
 
