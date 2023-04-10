@@ -1,13 +1,15 @@
 # Báo cáo nhóm 1
 
 ## Tuần trước làm
+Lập kế hoạch kiểm thử
 
 
 ## Các vấn đề nhóm gặp phải
+Hiện tại chưa gặp phải khó khăn
 
 
 ## Dự định tuần tới làm gì
-
+Thiết kế và viết các testcase
 
 ---
 
@@ -16,25 +18,27 @@
 ## Nguyễn Đức Mạnh (C)
 
 ### Tuần trước làm
-
-
+Tìm hiểu xem lại các tài liệu và thiết kế testcase
 ### Khó khăn gặp phải
-
-
+Hiện tại chưa có khó khăn
 ### Dự định tuần tới
+Viết các testcase
 
 
 ## Lê Hoàng Ngọc Tú
 
-
 ### Tuần trước làm gì
-Thiết kế giao diện trang Web hàng
+Em đã xong Front End cho website
 
 ### Khó khăn gặp phải
-Hiện tại em chưa gặp khó khăn
+Mục tiêu đề ra tuần trước chưa thực hiện được
 
 ### Dự định tuần tới
+<<<<<<< HEAD
 Dự định tuần tới em sẽ xong phần Front-end, Back-end và đi vào quy trình kiểm thử 1 số chức năng
+=======
+Dự định tuần này em làm xong một phần hệ thóng của website và tiến hành kiểm thử - Viết báo cáo 
+>>>>>>> 3a18fcaff1181ae75135733469fec9bcc658632e
 
 ## Nguyễn Đức Nguyện
 
