@@ -34,11 +34,7 @@ Em đã xong Front End cho website
 Mục tiêu đề ra tuần trước chưa thực hiện được
 
 ### Dự định tuần tới
-<<<<<<< HEAD
-Dự định tuần tới em sẽ xong phần Front-end, Back-end và đi vào quy trình kiểm thử 1 số chức năng
-=======
 Dự định tuần này em làm xong một phần hệ thóng của website và tiến hành kiểm thử - Viết báo cáo 
->>>>>>> 3a18fcaff1181ae75135733469fec9bcc658632e
 
 ## Nguyễn Đức Nguyện
 
