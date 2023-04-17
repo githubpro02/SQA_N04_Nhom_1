@@ -25,3 +25,8 @@ const imgPosition = document.querySelectorAll(".aspect-ratio-169 img");
         dotItem[index].classList.add("active")
     }
     setInterval(imgSlide, 5000)
+
+
+
+
+    
