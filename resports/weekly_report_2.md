@@ -28,13 +28,13 @@ Tiến hành kiểm thử và viết báo cáo
 ## Lê Hoàng Ngọc Tú
 
 ### Tuần trước làm gì
-Em đã xong Front End cho website
+Đang tiến hành thiết kế cơ sở dữ liệu cho website
 
 ### Khó khăn gặp phải
 Mục tiêu đề ra tuần trước chưa thực hiện được
 
 ### Dự định tuần tới
-Dự định tuần này em làm xong một phần hệ thóng của website và tiến hành kiểm thử - Viết báo cáo 
+Dự định tuần này xong database - Viết báo cáo 
 
 ## Nguyễn Đức Nguyện
 
